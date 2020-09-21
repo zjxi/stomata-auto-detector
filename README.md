@@ -2,4 +2,4 @@
 
 [stoma_auto_detector-win.rar](https://github.com/zjxi/zjxi.github.io/releases/tag/v1.0/stoma-auto-detector.rar)
 
-[演示视频](https://www.bilibili.com/video/BV1NK411M7Za)
+
