@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 title: Stoma Automatic Detector
 subtitle: Deep Transfer Learning-Based Multi-object Detection of Plant Stomata Phenotypic Traits and Intelligent Recognition System
 description: 基于深度迁移学习的植物气孔表型性状的高通量多目标检测与智能识别系统
+author: This stoma automatic detector that develped with [xzj](https://github.com/zjxi) and supported by [State Key Laboratory of Crop Stress Adaptation and Improvement](http://csai.henu.edu.cn/)
