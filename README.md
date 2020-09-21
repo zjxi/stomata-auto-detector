@@ -2,3 +2,4 @@
 
 [stoma_auto_detector-win.rar](https://github.com/zjxi/zjxi.github.io/releases/tag/v1.0/stoma-auto-detector.rar)
 
+<video src="./demo.mp4" width="800px" height="600px" controls="controls"></video>
