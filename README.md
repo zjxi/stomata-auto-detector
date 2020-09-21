@@ -6,7 +6,6 @@
 ![keras 2.24](https://img.shields.io/badge/keras-2.24-red.svg)
 ![opencv-python](https://img.shields.io/badge/opencv-3.4.3-blue.svg)
 ![pyqt5](https://img.shields.io/badge/pyqt5-5.13.2-orange.svg)
-![download](https://img.shields.io/github/downloads/zjxi.github.io/zjxi.github.io/total.svg)
 
 # 下载 | Download (v1.0) ```目前仅支持Windows平台使用```
 
@@ -17,4 +16,11 @@
 <iframe src="//player.bilibili.com/player.html?aid=754635870&bvid=BV1fk4y1y797&cid=237602440&page=1" 
          scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="600" width="800"> 
 </iframe>
+
+
+
+This stoma automatic detector that develped with [xzj](https://github.com/zjxi) and supported by [State Key Laboratory of Crop Stress Adaptation and Improvement](http://csai.henu.edu.cn/)
+
+Copyright © 2019-2020 河南省人工智能理论及算法工程研究中心 All rights reserved
+
 
