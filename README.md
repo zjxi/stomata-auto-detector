@@ -9,19 +9,17 @@
 
 ## 下载 | Download (v1.0) ```目前仅支持Windows平台使用```
 
-[stoma_auto_detector-win.rar](https://github.com/zjxi/zjxi.github.io/releases/tag/v1.0/stoma-auto-detector.rar)
+[stoma_auto_detector-win-v1.0.rar](https://github.com/zjxi/stoma-auto-detector.github.io/releases/tag/v1.0/stoma-auto-detector.rar)
 
 ## 演示视频 | Demo video
-[B站视频地址: https://www.bilibili.com/video/BV1fk4y1y797](https://www.bilibili.com/video/BV1fk4y1y797)
-<iframe src="//player.bilibili.com/player.html?aid=754635870&bvid=BV1fk4y1y797&cid=237602440&page=1" 
-         scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="600" width="800"> 
+[B站视频地址: https://www.bilibili.com/video/BV16z4y1Z7uZ/](https://www.bilibili.com/video/BV16z4y1Z7uZ/)
+<iframe src="//player.bilibili.com/player.html?aid=584713189&bvid=BV16z4y1Z7uZ&cid=237785684&page=1" scrolling="no" border="0" frameborder="no" framespacing="0"                           allowfullscreen="true" height="600" width="800"> 
 </iframe>
 
-
 <br><br>
-This stoma automatic detector that developed by [xzj](https://github.com/zjxi) and supported by [State Key Laboratory of Crop Stress Adaptation and Improvement](http://csai.henu.edu.cn/)
+This stoma automatic detector that developed by [zjxi](https://github.com/zjxi) and supported by [State Key Laboratory of Crop Stress Adaptation and Improvement](http://csai.henu.edu.cn/)
 
-<br><br>
+<br><br><br><br>
 Copyright © 2019-2020 河南省人工智能理论及算法工程研究中心 All rights reserved
 
 
