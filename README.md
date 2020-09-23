@@ -7,7 +7,7 @@
 ![opencv-python](https://img.shields.io/badge/opencv-3.4.3-blue.svg)
 ![pyqt5](https://img.shields.io/badge/pyqt5-5.13.2-orange.svg)
 
-## 下载 | ![downloads](https://img.shields.io/github/downloads/zjxi/stoma-auto-detector.github.io/total) (v1.0) ```目前仅支持Windows平台使用```
+## 下载 | ![downloads](https://img.shields.io/github/downloads/zjxi/stoma-auto-detector.github.io/total?style=for-the-badge) (v1.0) ```目前仅支持Windows平台使用```
 
 [stoma_auto_detector-win-v1.0.rar](https://github.com/zjxi/stoma-auto-detector.github.io/releases/tag/v1.0/stoma-auto-detector.rar)
 
