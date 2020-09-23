@@ -1,4 +1,4 @@
-![version](https://img.shields.io/badge/version-1.0-cyan.svg)
+![release](https://img.shields.io/github/v/release/zjxi/stoma-auto-detector.github.io)
 ![License](https://img.shields.io/github/license/zjxi/zjxi.github.io.svg)
 ![python 3.7](https://img.shields.io/badge/python-3.7-purple.svg)
 ![build](https://ci.appveyor.com/api/projects/status/l4gxgydj0i95hmxg/branch/master?svg=true)
@@ -7,7 +7,7 @@
 ![opencv-python](https://img.shields.io/badge/opencv-3.4.3-blue.svg)
 ![pyqt5](https://img.shields.io/badge/pyqt5-5.13.2-orange.svg)
 
-## 下载 | ![downloads](https://img.shields.io/github/downloads/zjxi/stoma-auto-detector.github.io/total?style=social) (v1.0) ```目前仅支持Windows平台使用```
+## 下载 | ![downloads](https://img.shields.io/github/downloads/zjxi/stoma-auto-detector.github.io/total) (v1.0) ```目前仅支持Windows平台使用```
 
 [stoma_auto_detector-win-v1.0.rar](https://github.com/zjxi/stoma-auto-detector.github.io/releases/tag/v1.0/stoma-auto-detector.rar)
 
