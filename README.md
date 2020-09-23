@@ -7,7 +7,7 @@
 ![opencv-python](https://img.shields.io/badge/opencv-3.4.3-blue.svg)
 ![pyqt5](https://img.shields.io/badge/pyqt5-5.13.2-orange.svg)
 
-## 下载 | Download ![downloads](https://img.shields.io/github/downloads/zjxi/stoma-auto-detector.github.io/total)![stars](https://img.shields.io/github/stars/zjxi/stoma-auto-detector.github.io?style=social)![forks](https://img.shields.io/github/forks/zjxi/stoma-auto-detector.github.io?style=social)
+## 下载 | Download ![platform](https://img.shields.io/badge/platform-win64-cyan.svg) ![downloads](https://img.shields.io/github/downloads/zjxi/stoma-auto-detector.github.io/total) ![stars](https://img.shields.io/github/stars/zjxi/stoma-auto-detector.github.io) ![forks](https://img.shields.io/github/forks/zjxi/stoma-auto-detector.github.io)
 [stoma_auto_detector-win-v1.0.rar](https://github.com/zjxi/stoma-auto-detector.github.io/releases/tag/v1.0/stoma-auto-detector.rar)
 
 ## 演示视频 | Demo video
