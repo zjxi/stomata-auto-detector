@@ -19,6 +19,6 @@
 This stoma automatic detector that developed by [zjxi](https://github.com/zjxi) and supported by [State Key Laboratory of Crop Stress Adaptation and Improvement](http://csai.henu.edu.cn/)
 
 <br><br><br><br>
-Copyright © 2019-2020 Artificial Intelligence Theory and Algorithm Engineering Research Center, Henan Province. All rights reserved.
+© Artificial Intelligence Theory and Algorithm Engineering Research Center, Henan Province. All rights reserved.
 
 
