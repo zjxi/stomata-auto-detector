@@ -2,7 +2,7 @@
 ![License](https://img.shields.io/github/license/zjxi/zjxi.github.io.svg)
 ![python 3.7](https://img.shields.io/badge/python-3.7-purple.svg)
 ![build](https://ci.appveyor.com/api/projects/status/l4gxgydj0i95hmxg/branch/master?svg=true)
-![tensorflow 1.14.1](https://img.shields.io/badge/tensorflow-1.14.1-yellow.svg)
+![tensorflow 1.14.1](https://img.shields.io/badge/tensorflow-1.13.1-yellow.svg)
 ![keras 2.24](https://img.shields.io/badge/keras-2.24-red.svg)
 ![opencv-python](https://img.shields.io/badge/opencv-3.4.3-blue.svg)
 ![pyqt5](https://img.shields.io/badge/pyqt5-5.13.2-orange.svg)
