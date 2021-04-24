@@ -8,8 +8,9 @@
 ![pyqt5](https://img.shields.io/badge/pyqt5-5.13.2-orange.svg)
 
 ## 下载 | Download ![platform](https://img.shields.io/badge/platform-win64-cyan.svg) ![downloads](https://img.shields.io/github/downloads/zjxi/stoma-auto-detector.github.io/total) ![stars](https://img.shields.io/github/stars/zjxi/stoma-auto-detector.github.io) ![forks](https://img.shields.io/github/forks/zjxi/stoma-auto-detector.github.io)
-[stomata_auto_detector-win64-v1.1.rar](https://github.com/zjxi/stoma-auto-detector.github.io/releases/tag/v1.1/stoma-auto-detector_v1.1.rar
-)
+[stomata_auto_detector-win64-v1.1.rar](https://github.com/zjxi/stoma-auto-detector.github.io/releases/tag/v1.1/)
+
+[stomata_auto_detector-win64-v1.0.rar](https://github.com/zjxi/stoma-auto-detector.github.io/releases/tag/v1.0/)
 
 ## 演示视频 | Demo video
 [B站视频地址: https://www.bilibili.com/video/BV16z4y1Z7uZ/](https://www.bilibili.com/video/BV16z4y1Z7uZ/)
