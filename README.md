@@ -12,6 +12,9 @@
 
 [stomata_auto_detector-win64-v1.0.rar](https://github.com/zjxi/stoma-auto-detector.github.io/releases/tag/v1.0/)
 
+## 示例图像 | Example images
+[example_images](./sample images)
+
 ## 演示视频 | Demo video
 [B站视频地址: https://www.bilibili.com/video/BV1Q54y1L715/](https://www.bilibili.com/video/BV1Q54y1L715/)
 <iframe src="//player.bilibili.com/player.html?aid=845205885&bvid=BV1Q54y1L715&cid=328796263&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="600" width="800">
