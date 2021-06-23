@@ -1,5 +1,5 @@
 ![release](https://img.shields.io/github/v/release/zjxi/stoma-auto-detector.github.io)
-![License](https://img.shields.io/github/license/zjxi/zjxi.github.io.svg)
+![License](https://img.shields.io/github/license/zjxi/stoma-auto-detector.github.io.svg)
 ![python 3.7](https://img.shields.io/badge/python-3.7-purple.svg)
 ![build](https://ci.appveyor.com/api/projects/status/l4gxgydj0i95hmxg/branch/master?svg=true)
 ![tensorflow 1.14.1](https://img.shields.io/badge/tensorflow-2.4.0-yellow.svg)
