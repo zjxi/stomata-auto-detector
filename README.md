@@ -14,9 +14,10 @@
 [example_images](https://github.com/zjxi/stoma-auto-detector.github.io/tree/master/sample%20images)
 
 ## 演示视频 | Demo video
-[B站视频地址: https://www.bilibili.com/video/BV1Q54y1L715/](https://www.bilibili.com/video/BV1Q54y1L715/)
-<iframe src="//player.bilibili.com/player.html?aid=845205885&bvid=BV1Q54y1L715&cid=328796263&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="600" width="800">
-</iframe>
-<br><br>
+[演示视频地址](https://www.bilibili.com/video/BV17L411H7SS/)
+<iframe src="//player.bilibili.com/player.html?aid=461693047&bvid=BV17L411H7SS&cid=370140226&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="600" width="800"> </iframe>
+
+<br>
+<br>
 The dataset is from **National Maize Improvement Center of China**.
 
