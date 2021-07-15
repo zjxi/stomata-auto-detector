@@ -64,7 +64,7 @@
     -   The "***About***" option records the sytstem information and copyright details.
 
 ## Demo video
-[bilibili video link)](https://www.bilibili.com/video/BV17L411H7SS/)
+[(bilibili video link)](https://www.bilibili.com/video/BV17L411H7SS/)
 <iframe src="//player.bilibili.com/player.html?aid=461693047&bvid=BV17L411H7SS&cid=370140226&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="600" width="800"> </iframe>
 
 <br>
