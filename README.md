@@ -14,7 +14,7 @@
 [example_images](https://github.com/zjxi/stoma-auto-detector.github.io/tree/master/sample%20images)
 
 ## 演示视频 | Demo video
-[演示视频链接](https://www.bilibili.com/video/BV17L411H7SS/)
+[演示视频链接(bilibili video link)](https://www.bilibili.com/video/BV17L411H7SS/)
 <iframe src="//player.bilibili.com/player.html?aid=461693047&bvid=BV17L411H7SS&cid=370140226&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="600" width="800"> </iframe>
 
 <br>
