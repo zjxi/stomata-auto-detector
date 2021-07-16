@@ -41,7 +41,7 @@
     
     -   "***Unit Conversion***": Calculating the ratio of the scale of the microscope image to its pixel length. The default `100 `represents 100 $\mu m$ scale, i.e. 20x magnification in our given `maize_20x`images is equivalent to the 100 $\mu m$ scale. The default `433` represents the pixel length of the 100 $\mu m$ black line.
         
-    -   "***Model Parameter***": including "***Stomata Minimum Confidence***" and "***NMS***", both parameter could adjust the accuracy of detection model and eliminate overlapped bouding-boxes.
+    -   "***Model Parameter***": including "***Stomata Minimum Confidence***" and "***NMS-threshold***", both parameter could adjust the accuracy of detection model and eliminate overlapped bouding-boxes.
         
 -   ***Edit*** : It includes two options: "***Reset System***" and "***Clean Caches***".
     
