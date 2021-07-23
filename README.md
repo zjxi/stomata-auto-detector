@@ -25,7 +25,9 @@
 ### 2. Operation
 - Unzip the downloaded compressed package
 - ``` cd stomata-auto-detector-v1.2```
-- stomata-auto-detector-xxx ```(dir)```
+- The file structure of our system is as below
+```
+stomata-auto-detector-xxx ```(dir)```
   |__stomata-auto-detector-xxx.exe
   |
   |__resource
@@ -38,6 +40,7 @@
   |__utils
          |__json__detection_config.json
          |__models__detection_model.h5
+```
 - Double click ```.exe``` file, then run the system
 - The detail operation at *Demo video*   
               
