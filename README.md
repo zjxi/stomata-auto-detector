@@ -22,8 +22,26 @@
     
 -   The Stomata Automatic Detector mainly consists of five modules: ***File***, ***Detect***, ***Settings***, ***Edit***, ***View***, ***Language***, ***Help***.
     
-
-### 2. Modules
+### 2. Operation
+- Unzip the downloaded compressed package
+- ``` cd stomata-auto-detector-v1.2```
+- stomata-auto-detector-xxx ```(dir)```
+  |__stomata-auto-detector-xxx.exe
+  |
+  |__resource
+  |         |_____icons
+  |         |_____images
+  |         |_____info-detected
+  |         |_____param-data
+  |                        |___model_param_data.txt
+  |                        |___unit_conv_data.txt
+  |__utils
+         |__json__detection_config.json
+         |__models__detection_model.h5
+- Double click ```.exe``` file, then run the system
+- The detail operation at *Demo video*   
+              
+### 3. Modules
 
 -   ***File*** : It includes the "***Open***" submenu and the "***Quit System***" option.
     
