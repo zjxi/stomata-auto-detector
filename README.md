@@ -32,7 +32,7 @@ stomata-auto-detector-xxx
   |
   |__resource 
   |         |_____icons (the background pic and logo of system)
-  |         |_____images (**saved images after single image detection)
+  |         |_____images (saved images after single image detection)
   |         |_____info-detected (saved info after single image detection)
   |         |_____param-data (record the values)
   |                        |___model_param_data.txt 
