@@ -28,21 +28,21 @@
 - The file structure of our system is as below
 ```
 stomata-auto-detector-xxx
-  |__stomata-auto-detector-xxx.exe (**the executive file**)
+  |__stomata-auto-detector-xxx.exe (the executive file)
   |
   |__resource 
-  |         |_____icons (**the background pic and logo of system**)
-  |         |_____images (**saved images after single image detection**)
-  |         |_____info-detected (**saved info after single image detection**)b
-  |         |_____param-data (**record the values**)
+  |         |_____icons (the background pic and logo of system)
+  |         |_____images (**saved images after single image detection)
+  |         |_____info-detected (saved info after single image detection)
+  |         |_____param-data (record the values)
   |                        |___model_param_data.txt 
   |                        |___unit_conv_data.txt
   |__utils
-         |__json__detection_config.json (**configuration of detection**)
-         |__models__detection_model.h5 (***the trained model with the best performance**)
+         |__json__detection_config.json (configuration of detection)
+         |__models__detection_model.h5 (the trained model with the best performance)
 ```
 - Double click ```.exe``` file, then run the system
-- The detail operation at *Demo video*   
+- The detail operations are in *Demo video*   
               
 ### 3. Modules
 
