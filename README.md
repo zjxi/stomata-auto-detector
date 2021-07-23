@@ -42,7 +42,7 @@ stomata-auto-detector-xxx
          |__models__detection_model.h5 (the trained model with the best performance)
 ```
 - Double click ```.exe``` file, then run the system
-- The detail operations are in *Demo video*   
+- The detail operations are in **Demo video**   
               
 ### 3. Modules
 
